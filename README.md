@@ -1,2 +1,3 @@
 # react-in-angularjs
-Use React components in the AngularJS below version 1.5.
+
+similar to [project](https://github.com/xjpro/react-in-angularjs/tree/master) but used for versions of AngularJS less than 1.5.
